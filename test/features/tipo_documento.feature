@@ -1,5 +1,5 @@
 Feature: Validate API responses
-  DOCUMENTOS_CRUD
+  DOCUMENTOS_CAMPUS_CRUD
   probe JSON reponses
 
 
