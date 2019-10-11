@@ -95,6 +95,6 @@ ON DELETE RESTRICT ON UPDATE CASCADE;
 -- ddl-end --
 
 -- Permisos de usuario
---GRANT USAGE ON SCHEMA documento_campus TO desarrollooas;
---GRANT SELECT, INSERT, UPDATE, DELETE ON ALL TABLES IN SCHEMA documento_campus TO desarrollooas;
---GRANT USAGE, SELECT ON ALL SEQUENCES IN SCHEMA documento_campus TO desarrollooas;
+GRANT USAGE ON SCHEMA documento_campus TO desarrollooas;
+GRANT SELECT, INSERT, UPDATE, DELETE ON ALL TABLES IN SCHEMA documento_campus TO desarrollooas;
+GRANT USAGE, SELECT ON ALL SEQUENCES IN SCHEMA documento_campus TO desarrollooas;
