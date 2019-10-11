@@ -1,1 +1,1 @@
-delete from documento.tipo_documento;
+delete from documento_campus.tipo_documento;
