@@ -1,0 +1,1 @@
+delete from documento_campus.tipo_documento;
